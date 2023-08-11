@@ -5,8 +5,6 @@
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/luke-de-armas-81bb86214/"><img alt="LinkedIn" width="26px" src="https://cdn.simpleicons.org/LinkedIn/#0A66C2" /></a>
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
