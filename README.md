@@ -38,6 +38,11 @@
 
 </div>
 
-### :zap: Recent Activity
+<details>
+  <summary>:hammer: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
