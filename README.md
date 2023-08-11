@@ -2,6 +2,7 @@
 
 [![website](./images/globe-light.svg)](https://lukedearmas.github.io/#gh-light-mode-only)
 [![website](./images/globe-dark.svg)](https://lukedearmas.github.io/#gh-dark-mode-only)
+&nbsp;
 <a href="https://www.linkedin.com/in/luke-de-armas-81bb86214/"><img alt="LinkedIn" width="26px" src="https://cdn.simpleicons.org/LinkedIn/#0A66C2" /></a>
 
 <br />
