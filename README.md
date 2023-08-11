@@ -1,6 +1,8 @@
 ### Social:
 
-<a href="https://lukedearmas.github.io/"><img align="left" alt="Portfolio Website" width="26px" src="./images/globe.svg" style="padding-right:10px;" /></a>
+[![website](./images/globe-light.svg)](https://lukedearmas.github.io/#gh-light-mode-only)
+[![website](./images/globe-dark.svg)](https://lukedearmas.github.io/#gh-dark-mode-only)
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/luke-de-armas-81bb86214/"><img align="left" alt="LinkedIn" width="26px" src="https://cdn.simpleicons.org/LinkedIn/#0A66C2" /></a>
 
 <br />
